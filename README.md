@@ -1,5 +1,5 @@
 # FR-Graph-Visualization
-Datasets, Gephi layouts, and image generation scripts for the paper: Enhanced Fruchterman-Reingold
+Gephi layouts file for the paper: Enhanced Fruchterman-Reingold: Scalable Visualization and Optimization Techniques for Complex Networks
 
 # Enhanced Fruchterman-Reingold: Scalable Visualization and Optimization Techniques for Complex Networks
 This repository contains the layout configuration files to the manuscript submitted to *The Visual Computer*.
